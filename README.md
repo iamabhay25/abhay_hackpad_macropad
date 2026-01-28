@@ -1,4 +1,18 @@
 # Abhay's Hackpad Macropad
-My personal hackpad for everyday use. 
+My personal macropad for everyday use. 
 
-I plan to have 6 keys and a screen
+Specifications:
+6x Cherry MX Switches
+2x SK6812 MINI Leds
+1x XIAO RP2040
+6x Blank DSA Keycaps
+6x M3x16 Bolt
+6x M3 Heatset
+
+
+
+Schematic:
+<img width="1218" height="1388" alt="Screenshot 2026-01-28 at 3 38 08 PM" src="https://github.com/user-attachments/assets/ab638772-a61f-4168-88c3-c60d23eb0ccd" />
+
+PCB:
+<img width="1470" height="1380" alt="Screenshot 2026-01-28 at 3 38 31 PM" src="https://github.com/user-attachments/assets/523c6b2e-20c7-4db1-bf0e-c45cd540177a" />
