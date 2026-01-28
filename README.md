@@ -2,12 +2,12 @@
 My personal macropad for everyday use. 
 
 Specifications:
-6x Cherry MX Switches
-2x SK6812 MINI Leds
-1x XIAO RP2040
-6x Blank DSA Keycaps
-6x M3x16 Bolt
-6x M3 Heatset
+6x Cherry MX Switches<br>
+2x SK6812 MINI Leds<br>
+1x XIAO RP2040<br>
+6x Blank DSA Keycaps<br>
+6x M3x16 Bolt<br>
+6x M3 Heatset<br>
 
 
 
