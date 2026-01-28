@@ -1,7 +1,7 @@
 # Abhay's Hackpad Macropad
 My personal macropad for everyday use. 
 
-Specifications:
+Specifications: <br>
 6x Cherry MX Switches<br>
 2x SK6812 MINI Leds<br>
 1x XIAO RP2040<br>
