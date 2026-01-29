@@ -1,13 +1,13 @@
 # Abhay's Hackpad Macropad
 My personal macropad for everyday use. 
 
-Specifications: <br>
+Bill of Materials: <br>
 - 6x Cherry MX Switches<br>
 - 2x SK6812 MINI Leds<br>
 - 1x XIAO RP2040<br>
 - 6x Blank DSA Keycaps<br>
-- 6x M3x16 Bolt<br>
-- 6x M3 Heatset<br>
+- 4x M3x16 Bolt<br>
+- 4x M3 Heatset<br>
 
 Schematic:
 <img width="1218" height="1388" alt="Screenshot 2026-01-28 at 3 38 08 PM" src="https://github.com/user-attachments/assets/ab638772-a61f-4168-88c3-c60d23eb0ccd" />
