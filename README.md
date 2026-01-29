@@ -15,7 +15,7 @@ Schematic:
 <img width="900" height="900" alt="Screenshot 2026-01-28 at 3 38 08 PM" src="https://github.com/user-attachments/assets/ab638772-a61f-4168-88c3-c60d23eb0ccd" />
 
 PCB:
-<img width="1470" height="1380" alt="Screenshot 2026-01-28 at 3 38 31 PM" src="https://github.com/user-attachments/assets/22fe0c04-144b-4191-b851-b90f6035a719" />
+<img width="900" height="900" alt="Screenshot 2026-01-28 at 3 38 31 PM" src="https://github.com/user-attachments/assets/22fe0c04-144b-4191-b851-b90f6035a719" />
 
 
 Macroboard Bottom CAD:
